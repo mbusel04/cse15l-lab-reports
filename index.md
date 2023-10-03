@@ -5,11 +5,11 @@
   
 ![Image](img/cd-na.png)
 ## directory as an argument
-- We will get moved to the path what we have provided, or we will just recive an error that there is no such directory.
+- We will get moved to the path what we have provided, or we will just recive an error that there is no such directory. Since it's impossible to open a directory which doesn't exist.
   
 ![Image](img/cd-da.png)
 ## file as an argument
-- We will just recive an error message that our path is not a directory.
+- We will just recive an error message that our path is not a directory. You cannot change a directory if what you are trying to change to is not a directory.
   
 ![Image](img/cd-fa.png)
 
@@ -26,7 +26,7 @@
   
 ![Image](img/ls-da.png)
 ## file as an argument
-- It will just give us back a path to that file if it exist, or throw an exception if path is not real.
+- It will just give us back a path to that file if it exist, or throw an exception if path is not real. It seams not be an error, but just a fancy way of cheking if file does exist.
   
 ![Image](img/ls-fa.png)
 
@@ -39,7 +39,7 @@
   
 ![Image](img/cat-na.png)
 ## directory as an argument
-- It will just throw an error that it's a directory.
+- It will just throw an error that it's a directory, because it asks specifically for a file.
   
 ![Image](img/cat-da.png)
 ## file as an argument
