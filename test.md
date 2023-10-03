@@ -2,4 +2,4 @@
 Which includes:
 - No bulletpoints
 - No **bold text**.
-- No [Link](http://a.com) to not existing websites. 
+- No [Links](http://a.com) to not existing websites. 
