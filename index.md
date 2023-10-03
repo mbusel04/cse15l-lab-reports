@@ -13,6 +13,7 @@
   
 ![Image](img/cd-fa.png)
 
+---
 
 
 # ls
@@ -30,6 +31,7 @@
   
 ![Image](img/ls-fa.png)
 
+---
 
 
 # cat
