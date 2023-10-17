@@ -1,4 +1,5 @@
 For all examples below we are going to work with *lecture1* directory, which has a stracture as shown below.
+
 ![Image](img/tt-1.png)
 
 ---
@@ -44,6 +45,7 @@ For all examples below we are going to work with *lecture1* directory, which has
 - Cat will continue running and listening for input into the shell, and after pressing ENTER key it will just return back whatever we typed in. Ctrl+C to exit. It's not an error, and we actually can use it in order to write down information to files. 
     
 ![Image](img/cat-na.png)
+
 ![Image](img/cat-na-1.png)  
 ![Image](img/cat-na-2.png)
 ## directory as an argument
